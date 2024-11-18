@@ -18,14 +18,12 @@ This application allows users to generate strong, random passwords with various 
 
 ## Installation
 
-### 1. Clone the repository:
-
-```bash
+### 1.Clone the repository:
 git clone https://github.com/your-username/password-generator.git
 
-### 2. Install dependecies:
-cd password-generator
-npm install
+### 2.Install dependencies:
+cd passwordGenerator
+npm run dev
 
-#Improvements that can be added:
--we can improvise it by adding a **'Copy to the clipboard functionality'**.
+# Improvements: 
+-**We can improvise this project by adding a copy to clipboard feature.**
